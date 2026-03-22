@@ -1,6 +1,6 @@
 # Armenian Bank AI Voice Assistant
 
-AI Voice Assistant answer to your questions about crediys, deposits and in Armenian 
+AI Voice Assistant: Get answers to your questions about credits, deposits, and branches for Ameriabank, Araratbank, and Idram.
 My system uses Crawl4AI to automatically scrape real-time banking data from websites and store it in a structured info.json file. This data is then processed within the LiveKit ecosystem using Whisper and GPT-4o to provide accurate, AI-driven voice responses to customer inquiries about loans and deposits.
 
 ## Needed
