@@ -2,7 +2,8 @@
 
 AI Voice Assistant answer to your questions about crediys, deposits and in Armenian 
 My system uses Crawl4AI to automatically scrape real-time banking data from websites and store it in a structured info.json file. This data is then processed within the LiveKit ecosystem using Whisper and GPT-4o to provide accurate, AI-driven voice responses to customer inquiries about loans and deposits.
-##Needed
+
+## Needed
 Python 3.11 installed
 Docker Desktop installed and running (https://www.docker.com/products/docker-desktop/)
 An OpenAI API key
